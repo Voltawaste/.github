@@ -91,24 +91,24 @@ To **reduce environmental impact** by reimagining how electronic waste is manage
       <br/>
       <sub>⚡ Lead Developer</sub>
       <br/><br/>
-      <a href="https://github.com/ahmadpratama">
+      <a href="https://github.com/Nabil-Aditya">
         <img src="https://img.shields.io/badge/GitHub-0d1410?style=flat-square&logo=github&logoColor=c6ff00"/>
       </a>
-      <a href="https://linkedin.com/in/ahmadpratama">
+      <a href="https://linkedin.com/in/nabiladityaa">
         <img src="https://img.shields.io/badge/LinkedIn-0d1410?style=flat-square&logo=linkedin&logoColor=3B82F6"/>
       </a>
     </td>
     <td align="center" width="200">
       <img src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/justine.png" width="100" height="100" style="border-radius:50%;" alt="Justine"/>
       <br/><br/>
-      <b>Ivander Justine Saavero</b>
+      <b>Ivander Justine Savero</b>
       <br/>
-      <sub>📱 Mobile Developer</sub>
+      <sub>📱 Fullstack Developer</sub>
       <br/><br/>
-      <a href="https://github.com/sitinurhaliza">
+      <a href="https://github.com/IvanderJustineSavero12">
         <img src="https://img.shields.io/badge/GitHub-0d1410?style=flat-square&logo=github&logoColor=c6ff00"/>
       </a>
-      <a href="https://linkedin.com/in/sitinurhaliza">
+      <a href="https://linkedin.com/in/">
         <img src="https://img.shields.io/badge/LinkedIn-0d1410?style=flat-square&logo=linkedin&logoColor=3B82F6"/>
       </a>
     </td>
@@ -117,12 +117,12 @@ To **reduce environmental impact** by reimagining how electronic waste is manage
       <br/><br/>
       <b>Fasha-Ar Rafly</b>
       <br/>
-      <sub>🖥️ Backend Developer</sub>
+      <sub>📡 IOT Engineer</sub>
       <br/><br/>
-      <a href="https://github.com/budisantoso">
+      <a href="https://github.com/fshaarfly">
         <img src="https://img.shields.io/badge/GitHub-0d1410?style=flat-square&logo=github&logoColor=c6ff00"/>
       </a>
-      <a href="https://linkedin.com/in/budisantoso">
+      <a href="https://linkedin.com/in/">
         <img src="https://img.shields.io/badge/LinkedIn-0d1410?style=flat-square&logo=linkedin&logoColor=3B82F6"/>
       </a>
     </td>
@@ -135,10 +135,10 @@ To **reduce environmental impact** by reimagining how electronic waste is manage
       <br/>
       <sub>🎨 UI/UX Designer · QA</sub>
       <br/><br/>
-      <a href="https://github.com/dewilestari">
+      <a href="https://github.com/Aditiya-16">
         <img src="https://img.shields.io/badge/GitHub-0d1410?style=flat-square&logo=github&logoColor=c6ff00"/>
       </a>
-      <a href="https://linkedin.com/in/dewilestari">
+      <a href="https://linkedin.com/in/">
         <img src="https://img.shields.io/badge/LinkedIn-0d1410?style=flat-square&logo=linkedin&logoColor=3B82F6"/>
       </a>
     </td>
@@ -149,10 +149,10 @@ To **reduce environmental impact** by reimagining how electronic waste is manage
       <br/>
       <sub>🎨 UI/UX Designer · QA</sub>
       <br/><br/>
-      <a href="https://github.com/rizkifirmansyah">
+      <a href="https://github.com/andihardian">
         <img src="https://img.shields.io/badge/GitHub-0d1410?style=flat-square&logo=github&logoColor=c6ff00"/>
       </a>
-      <a href="https://linkedin.com/in/rizkifirmansyah">
+      <a href="https://linkedin.com/in/">
         <img src="https://img.shields.io/badge/LinkedIn-0d1410?style=flat-square&logo=linkedin&logoColor=3B82F6"/>
       </a>
     </td>

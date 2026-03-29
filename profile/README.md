@@ -1,5 +1,4 @@
-![Voltawaste Banner](image/volta-waste.png)
-
+![Hero Banner](https://raw.githubusercontent.com/Voltawaste/.github/main/image/volta-waste.png)
 # ⚡ Voltawaste
 
 Voltawaste is an IoT-based e-waste management platform focused on smart collection, tracking, and sustainable recycling.

@@ -108,3 +108,4 @@ Whether you're into embedded systems, mobile dev, full-stack, UX, or sustainabil
 *Built with ⚡ by the Voltawaste team — For a greener planet.*
 
 </div>
+</div>

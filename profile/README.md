@@ -78,6 +78,92 @@ To **reduce environmental impact** by reimagining how electronic waste is manage
 
 ---
 
+## 👥 Tim Pengembang
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/nabil.png" width="100" height="100" style="border-radius:50%;" alt="Nabil"/>
+      <br/><br/>
+      <b>Muhammad Nabil Aditya Putera</b>
+      <br/>
+      <sub>⚡ Lead Developer</sub>
+      <br/><br/>
+      <a href="https://github.com/ahmadpratama">
+        <img src="https://img.shields.io/badge/GitHub-0d1410?style=flat-square&logo=github&logoColor=c6ff00"/>
+      </a>
+      <a href="https://linkedin.com/in/ahmadpratama">
+        <img src="https://img.shields.io/badge/LinkedIn-0d1410?style=flat-square&logo=linkedin&logoColor=3B82F6"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/justine.png" width="100" height="100" style="border-radius:50%;" alt="Justine"/>
+      <br/><br/>
+      <b>Ivander Justine Saavero</b>
+      <br/>
+      <sub>📱 Mobile Developer</sub>
+      <br/><br/>
+      <a href="https://github.com/sitinurhaliza">
+        <img src="https://img.shields.io/badge/GitHub-0d1410?style=flat-square&logo=github&logoColor=c6ff00"/>
+      </a>
+      <a href="https://linkedin.com/in/sitinurhaliza">
+        <img src="https://img.shields.io/badge/LinkedIn-0d1410?style=flat-square&logo=linkedin&logoColor=3B82F6"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/fasha.png" width="100" height="100" style="border-radius:50%;" alt="Fasha"/>
+      <br/><br/>
+      <b>Fasha-Ar Rafly</b>
+      <br/>
+      <sub>🖥️ Backend Developer</sub>
+      <br/><br/>
+      <a href="https://github.com/budisantoso">
+        <img src="https://img.shields.io/badge/GitHub-0d1410?style=flat-square&logo=github&logoColor=c6ff00"/>
+      </a>
+      <a href="https://linkedin.com/in/budisantoso">
+        <img src="https://img.shields.io/badge/LinkedIn-0d1410?style=flat-square&logo=linkedin&logoColor=3B82F6"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/adit.png" width="100" height="100" style="border-radius:50%;" alt="Adit"/>
+      <br/><br/>
+      <b>Aditiya Arsandi Sulaeman</b>
+      <br/>
+      <sub>🎨 UI/UX Designer · QA</sub>
+      <br/><br/>
+      <a href="https://github.com/dewilestari">
+        <img src="https://img.shields.io/badge/GitHub-0d1410?style=flat-square&logo=github&logoColor=c6ff00"/>
+      </a>
+      <a href="https://linkedin.com/in/dewilestari">
+        <img src="https://img.shields.io/badge/LinkedIn-0d1410?style=flat-square&logo=linkedin&logoColor=3B82F6"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/ECOZYNE/.github/main/images/hardi.png" width="100" height="100" style="border-radius:50%;" alt="Hardi"/>
+      <br/><br/>
+      <b>Andi Hardiansya Permana</b>
+      <br/>
+      <sub>🎨 UI/UX Designer · QA</sub>
+      <br/><br/>
+      <a href="https://github.com/rizkifirmansyah">
+        <img src="https://img.shields.io/badge/GitHub-0d1410?style=flat-square&logo=github&logoColor=c6ff00"/>
+      </a>
+      <a href="https://linkedin.com/in/rizkifirmansyah">
+        <img src="https://img.shields.io/badge/LinkedIn-0d1410?style=flat-square&logo=linkedin&logoColor=3B82F6"/>
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🌍 Impact
 
 | | Goal |

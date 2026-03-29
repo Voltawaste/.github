@@ -3,18 +3,6 @@
 <!-- BANNER -->
 <img src="https://raw.githubusercontent.com/Voltawaste/.github/main/image/volta-waste.png" alt="Voltawaste Banner" width="100%"/>
 
-<!-- ANIMATED TITLE -->
-<br/>
-
-```
-██╗   ██╗ ██████╗ ██╗  ████████╗ █████╗ ██╗    ██╗ █████╗ ███████╗████████╗███████╗
-██║   ██║██╔═══██╗██║  ╚══██╔══╝██╔══██╗██║    ██║██╔══██╗██╔════╝╚══██╔══╝██╔════╝
-██║   ██║██║   ██║██║     ██║   ███████║██║ █╗ ██║███████║███████╗   ██║   █████╗  
-╚██╗ ██╔╝██║   ██║██║     ██║   ██╔══██║██║███╗██║██╔══██║╚════██║   ██║   ██╔══╝  
- ╚████╔╝ ╚██████╔╝███████╗██║   ██║  ██║╚███╔███╔╝██║  ██║███████║   ██║   ███████╗
-  ╚═══╝   ╚═════╝ ╚══════╝╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝
-```
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=3000&pause=800&color=C6FF00&center=true&vCenter=true&width=600&lines=⚡+IoT-Based+E-Waste+Management+Platform;♻️+Smart+Collection+%26+Tracking+System;🌍+Building+a+Circular+Economy;📡+Real-Time+IoT+Monitoring)](https://git.io/typing-svg)
@@ -76,10 +64,10 @@ To **reduce environmental impact** by reimagining how electronic waste is manage
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry.Pi](https://img.shields.io/badge/Raspberry_Pi-BD2C00?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -96,15 +84,6 @@ To **reduce environmental impact** by reimagining how electronic waste is manage
 | ⚡ | Increase recycling efficiency via IoT-driven smart collection |
 | 🔄 | Support the circular economy by extending device lifecycles |
 | 📊 | Generate data insights that improve e-waste policy and logistics |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voltawaste&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=080c0a&title_color=c6ff00&icon_color=c6ff00&text_color=d4e8d0" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voltawaste&theme=dark&hide_border=true&background=080c0a&stroke=c6ff00&ring=c6ff00&fire=00e5c0&currStreakLabel=c6ff00" height="160"/>
-</div>
 
 ---
 

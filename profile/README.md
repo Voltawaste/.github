@@ -4,16 +4,17 @@
 <img src="https://raw.githubusercontent.com/Voltawaste/.github/main/image/voltawaste.png" alt="Voltawaste Banner" width="100%"/>
 
 <br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&duration=3000&pause=800&color=C6FF00&center=true&vCenter=true&width=800&lines=⚡+IoT-Based+E-Waste+Management+Platform;♻️+Smart+Collection+%26+Tracking+System;🌍+Building+a+Circular+Economy;📡+Real-Time+IoT+Monitoring&fontWeight=bold)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- BADGES -->
-![Status](https://img.shields.io/badge/Status-Active-c6ff00?style=for-the-badge&labelColor=0d1410&logo=statuspage&logoColor=c6ff00)
-![Platform](https://img.shields.io/badge/Platform-IoT-00e5c0?style=for-the-badge&labelColor=0d1410)
-![Focus](https://img.shields.io/badge/Focus-E--Waste-c6ff00?style=for-the-badge&labelColor=0d1410)
-![Env](https://img.shields.io/badge/Environment-Sustainable-22c55e?style=for-the-badge&labelColor=0d1410)
+![Status](https://img.shields.io/badge/Status-Waste_Management-1E40AF?style=for-the-badge&labelColor=0d1410&logo=statuspage&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-IoT-3B82F6?style=for-the-badge&labelColor=0d1410&logo=iot&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-E--Waste-10B981?style=for-the-badge&labelColor=0d1410&logo=recycle&logoColor=white)
+![Env](https://img.shields.io/badge/Environment-Sustainable-0EA5E9?style=for-the-badge&labelColor=0d1410&logo=environment&logoColor=white)
 
 </div>
 

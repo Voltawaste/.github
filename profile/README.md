@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=3000&pause=800&color=C6FF00&center=true&vCenter=true&width=600&lines=⚡+IoT-Based+E-Waste+Management+Platform;♻️+Smart+Collection+%26+Tracking+System;🌍+Building+a+Circular+Economy;📡+Real-Time+IoT+Monitoring)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&duration=3000&pause=800&color=C6FF00&center=true&vCenter=true&width=800&lines=⚡+IoT-Based+E-Waste+Management+Platform;♻️+Smart+Collection+%26+Tracking+System;🌍+Building+a+Circular+Economy;📡+Real-Time+IoT+Monitoring&fontWeight=bold)](https://git.io/typing-svg)
 
 <br/>
 

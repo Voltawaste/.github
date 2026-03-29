@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/Voltawaste/.github/main/image/volta-waste.png" alt="Voltawaste Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Voltawaste/.github/main/image/voltawaste.png" alt="Voltawaste Banner" width="100%"/>
 
 <br/>
 

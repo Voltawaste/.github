@@ -78,7 +78,7 @@ To **reduce environmental impact** by reimagining how electronic waste is manage
 
 ---
 
-## 👥 Tim Pengembang
+## 👥 Development team
 
 <div align="center">
 

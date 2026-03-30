@@ -78,7 +78,7 @@ To **reduce environmental impact** by reimagining how electronic waste is manage
 
 ---
 
-## 👥 Development team
+## 👥 Development Team
 
 <div align="center">
 
